@@ -1,3 +1,3 @@
-fn fn main() {
+fn main() {
 	println!("It is time");
 }
